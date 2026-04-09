@@ -1,1 +1,1 @@
-opz=ko
+opz=ok
